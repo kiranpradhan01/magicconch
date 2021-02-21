@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/magicconch/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/magicconch/static/js/main.e6592750.chunk.js",
-    "main.js.map": "/magicconch/static/js/main.e6592750.chunk.js.map",
-    "runtime-main.js": "/magicconch/static/js/runtime-main.d0507690.js",
-    "runtime-main.js.map": "/magicconch/static/js/runtime-main.d0507690.js.map",
-    "static/js/2.532adbd9.chunk.js": "/magicconch/static/js/2.532adbd9.chunk.js",
-    "static/js/2.532adbd9.chunk.js.map": "/magicconch/static/js/2.532adbd9.chunk.js.map",
-    "static/js/3.33b8fa15.chunk.js": "/magicconch/static/js/3.33b8fa15.chunk.js",
-    "static/js/3.33b8fa15.chunk.js.map": "/magicconch/static/js/3.33b8fa15.chunk.js.map",
+    "main.css": "/magicconch/static/css/main.07e72827.chunk.css",
+    "main.js": "/magicconch/static/js/main.0bc948fc.chunk.js",
+    "main.js.map": "/magicconch/static/js/main.0bc948fc.chunk.js.map",
+    "runtime-main.js": "/magicconch/static/js/runtime-main.7853aa8c.js",
+    "runtime-main.js.map": "/magicconch/static/js/runtime-main.7853aa8c.js.map",
+    "static/js/2.7f1ae917.chunk.js": "/magicconch/static/js/2.7f1ae917.chunk.js",
+    "static/js/2.7f1ae917.chunk.js.map": "/magicconch/static/js/2.7f1ae917.chunk.js.map",
+    "static/js/3.36777267.chunk.js": "/magicconch/static/js/3.36777267.chunk.js",
+    "static/js/3.36777267.chunk.js.map": "/magicconch/static/js/3.36777267.chunk.js.map",
     "index.html": "/magicconch/index.html",
-    "static/css/main.7d180cbf.chunk.css.map": "/magicconch/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.532adbd9.chunk.js.LICENSE.txt": "/magicconch/static/js/2.532adbd9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/magicconch/static/media/logo.6ce24c58.svg",
+    "static/css/main.07e72827.chunk.css.map": "/magicconch/static/css/main.07e72827.chunk.css.map",
+    "static/js/2.7f1ae917.chunk.js.LICENSE.txt": "/magicconch/static/js/2.7f1ae917.chunk.js.LICENSE.txt",
     "static/media/magicconch.3e8f08ea.jpg": "/magicconch/static/media/magicconch.3e8f08ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0507690.js",
-    "static/js/2.532adbd9.chunk.js",
-    "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.e6592750.chunk.js"
+    "static/js/runtime-main.7853aa8c.js",
+    "static/js/2.7f1ae917.chunk.js",
+    "static/css/main.07e72827.chunk.css",
+    "static/js/main.0bc948fc.chunk.js"
   ]
 }
